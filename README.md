@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <a href="https://github.com/VolKira17">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20the%20Oracle" alt="Hello! I&#39;m the Oracle" />
   </a>
